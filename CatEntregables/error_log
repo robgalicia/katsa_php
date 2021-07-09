@@ -1,0 +1,9 @@
+[10-Apr-2021 20:25:03 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/CatEntregables/entregable_insert.php on line 26
+[10-Apr-2021 20:36:27 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/CatEntregables/entregable_insert.php on line 26
+[10-Apr-2021 20:36:49 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/CatEntregables/entregable_insert.php on line 26
+[10-Apr-2021 20:40:36 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/CatEntregables/entregable_insert.php on line 26
+[10-Apr-2021 20:43:29 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/CatEntregables/entregable_insert.php on line 26
+[15-Apr-2021 22:09:57 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[15-Apr-2021 22:09:57 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[15-Apr-2021 22:09:57 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[15-Apr-2021 22:09:57 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86

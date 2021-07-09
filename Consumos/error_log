@@ -1,0 +1,5 @@
+[25-Feb-2021 19:45:40 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[25-Feb-2021 19:45:40 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[25-Feb-2021 19:45:40 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[02-Mar-2021 20:30:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Consumos/consumos_all.php on line 18
+[02-Mar-2021 20:30:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Consumos/consumos_all.php on line 18

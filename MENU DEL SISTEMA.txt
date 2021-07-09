@@ -1,0 +1,70 @@
+CATALOGOS
+	- Datos del Negocio
+	- Regiones
+	- Lugar de Adscripción
+	- Departamentos
+	- Puestos
+	- Municipios
+	- Grado de Escolaridad
+	- Profesiones
+	- Nacionalidad
+	- Bancos
+	- Estado Civil
+	- Tipo de Sangre
+	- Tipo de Parentesco
+	- Arrendadoras
+	- Unidad de Medida
+	- Partida
+	
+
+RECURSOS HUMANOS
+	- Empleados
+	- Contratos
+	- Cambio de Adscripción
+	- Incidencias Laborales
+	-----------------------------
+	- Estado de Fuerza Laboral
+	- Documentos Vencidos
+	- Documentos Faltantes
+	- Contratos por Vencer
+	- Altas de Empleados
+	- Listado de Incidencias
+
+VEHICULOS
+	- Marcas de Vehículos
+	- Tipos de Combustible
+	-----------------------------
+	- Padrón Vehicular
+	- Resguardo de Vehículos
+	- Tarjetas de Combustible
+	- Consumos de Combustible
+	- Mantenimiento de Vehículos
+	- Registro de Incidencias
+	- Pólizas de Seguros
+	- Pago de Tenencia
+	-----------------------------
+	- Estado de Fuerza Vehicular
+	- Consumos Elevados de Combustible
+	- Seguros por Vencer
+	- Tenencias Vencidas
+	
+
+COMPRAS
+	- Proveedores
+	- Artículos
+	- Elaborar Requisición
+	- Revisar Requisición
+	- Autorizar Requisición
+	- Administrar Requisiciones
+	- Órdenes de Compra
+
+GASTOS POR COMPROBAR
+
+FACTURACIÓN
+
+ADMINISTRACIÓN
+	- Formatos Legales
+
+SEGURIDAD
+	- Usuarios
+	- Permisos

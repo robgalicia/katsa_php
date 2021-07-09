@@ -1,0 +1,13 @@
+[10-Mar-2021 16:59:47 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Articulo/articulo_insert.php on line 30
+[23-Apr-2021 17:31:06 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[23-Apr-2021 17:31:06 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[23-Apr-2021 17:31:06 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[23-Apr-2021 17:31:06 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[03-May-2021 16:45:55 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[03-May-2021 16:45:55 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[03-May-2021 16:45:55 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[03-May-2021 16:45:55 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[03-May-2021 17:15:16 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[03-May-2021 17:15:16 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[03-May-2021 17:15:16 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[03-May-2021 17:15:16 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86

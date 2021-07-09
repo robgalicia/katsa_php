@@ -1,0 +1,131 @@
+<<<<<<< HEAD
+[09-Feb-2021 17:42:41 America/Chicago] PHP Fatal error:  Cannot declare class Conexion, because the name is already in use in /home3/estuds6q/katsa/Katsa/conexion/conexion.php on line 3
+[09-Feb-2021 19:50:34 America/Chicago] PHP Fatal error:  Cannot declare class Conexion, because the name is already in use in /home3/estuds6q/katsa/Katsa/conexion/conexion.php on line 3
+=======
+[27-Jan-2021 10:30:43 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[27-Jan-2021 10:30:43 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[27-Jan-2021 10:30:43 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[04-Mar-2021 03:50:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Comun/funciones.php on line 204
+[04-Mar-2021 03:55:26 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Comun/funciones.php on line 204
+[04-Mar-2021 04:12:16 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Comun/funciones.php on line 83
+[04-Mar-2021 04:17:53 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/f29w4mjecf3y/public_html/Comun/funciones.php on line 93
+[04-Mar-2021 04:18:01 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/f29w4mjecf3y/public_html/Comun/funciones.php on line 93
+<<<<<<< HEAD
+[04-Mar-2021 04:29:07 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/f29w4mjecf3y/public_html/Comun/funciones.php on line 95
+[04-Mar-2021 04:29:36 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/f29w4mjecf3y/public_html/Comun/funciones.php on line 95
+=======
+>>>>>>> e97b33bf6cc0627b0b64416c91b656b62702a833
+>>>>>>> ae0acfab7428c5b43b82a2a468b5bb76d5a6764a
+[09-Mar-2021 15:43:29 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[09-Mar-2021 15:43:29 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[09-Mar-2021 15:43:29 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[24-Mar-2021 17:43:57 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[24-Mar-2021 17:46:31 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[24-Mar-2021 17:50:46 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[24-Mar-2021 17:51:32 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[24-Mar-2021 17:51:54 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[24-Mar-2021 18:00:53 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[24-Mar-2021 18:02:47 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[24-Mar-2021 18:04:03 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[25-Mar-2021 19:27:53 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Apr-2021 15:44:02 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[20-Apr-2021 18:15:19 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[20-Apr-2021 18:15:19 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[20-Apr-2021 18:15:19 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[20-Apr-2021 18:15:19 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[21-Apr-2021 16:58:22 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[21-Apr-2021 17:02:43 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[21-Apr-2021 17:14:34 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[21-Apr-2021 17:20:11 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[21-Apr-2021 17:20:11 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[21-Apr-2021 17:20:11 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[21-Apr-2021 17:20:11 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[21-Apr-2021 17:20:11 UTC] PHP Notice:  Undefined index: idregion in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 77
+[21-Apr-2021 17:20:11 UTC] PHP Notice:  Undefined index: iddepartamento in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 81
+[22-Apr-2021 16:01:54 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[22-Apr-2021 16:07:10 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[22-Apr-2021 16:07:10 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[22-Apr-2021 16:07:10 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[22-Apr-2021 16:07:10 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[22-Apr-2021 16:07:10 UTC] PHP Notice:  Undefined index: idregion in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 77
+[22-Apr-2021 16:07:10 UTC] PHP Notice:  Undefined index: iddepartamento in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 81
+[23-Apr-2021 13:26:24 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[23-Apr-2021 13:26:24 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[23-Apr-2021 13:26:24 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[23-Apr-2021 13:26:24 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[23-Apr-2021 13:26:24 UTC] PHP Notice:  Undefined index: idregion in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 77
+[23-Apr-2021 13:26:24 UTC] PHP Notice:  Undefined index: iddepartamento in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 81
+[05-May-2021 18:59:20 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[05-May-2021 18:59:20 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[05-May-2021 18:59:20 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[05-May-2021 18:59:20 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[05-May-2021 18:59:20 UTC] PHP Notice:  Undefined index: idempleado in /home/f29w4mjecf3y/public_html/Requisicion/tabs/generales.php on line 121
+[05-May-2021 22:31:31 UTC] PHP Notice:  Undefined index: especificaciones in /home/f29w4mjecf3y/public_html/Requisicion/requi_insert_detalle.php on line 24
+[05-May-2021 22:31:31 UTC] PHP Notice:  Undefined index: especificaciones in /home/f29w4mjecf3y/public_html/Requisicion/requi_insert_detalle.php on line 24
+[05-May-2021 22:35:38 UTC] PHP Notice:  Undefined index: especificaciones in /home/f29w4mjecf3y/public_html/Requisicion/requi_insert_detalle.php on line 24
+[05-May-2021 22:35:38 UTC] PHP Notice:  Undefined index: especificaciones in /home/f29w4mjecf3y/public_html/Requisicion/requi_insert_detalle.php on line 24
+[05-May-2021 22:36:37 UTC] PHP Notice:  Undefined index: especificaciones in /home/f29w4mjecf3y/public_html/Requisicion/requi_insert_detalle.php on line 24
+[05-May-2021 22:36:37 UTC] PHP Notice:  Undefined index: especificaciones in /home/f29w4mjecf3y/public_html/Requisicion/requi_insert_detalle.php on line 24
+[24-May-2021 16:59:20 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[24-May-2021 16:59:20 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[24-May-2021 16:59:20 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[24-May-2021 16:59:20 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[24-May-2021 16:59:20 UTC] PHP Notice:  Undefined index: idregion in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 77
+[24-May-2021 16:59:20 UTC] PHP Notice:  Undefined index: iddepartamento in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 81
+[02-Jun-2021 17:00:07 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[02-Jun-2021 17:00:07 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[02-Jun-2021 17:00:07 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[02-Jun-2021 17:00:07 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[02-Jun-2021 17:00:07 UTC] PHP Notice:  Undefined index: idregion in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 77
+[02-Jun-2021 17:00:07 UTC] PHP Notice:  Undefined index: iddepartamento in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 81
+[07-Jun-2021 13:02:51 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[07-Jun-2021 13:02:51 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[07-Jun-2021 13:02:51 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[07-Jun-2021 13:02:51 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[07-Jun-2021 13:02:51 UTC] PHP Notice:  Undefined index: idregion in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 77
+[07-Jun-2021 13:02:51 UTC] PHP Notice:  Undefined index: iddepartamento in /home/f29w4mjecf3y/public_html/Requisicion/index.php on line 81
+[11-Jun-2021 17:30:03 UTC] PHP Notice:  Undefined index: idempleado in /home/f29w4mjecf3y/public_html/Requisicion/requi_all.php on line 15
+[11-Jun-2021 17:30:03 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Requisicion/requi_all.php on line 24
+[11-Jun-2021 17:30:10 UTC] PHP Notice:  Undefined index: idempleado in /home/f29w4mjecf3y/public_html/Requisicion/requi_all.php on line 15
+[11-Jun-2021 17:30:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Requisicion/requi_all.php on line 24
+[11-Jun-2021 17:31:03 UTC] PHP Notice:  Undefined index: idempleado in /home/f29w4mjecf3y/public_html/Requisicion/requi_all.php on line 15
+[11-Jun-2021 17:31:03 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Requisicion/requi_all.php on line 24
+[08-Jul-2021 14:45:54 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 19:18:30 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 19:18:38 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 19:18:41 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 19:24:34 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 19:24:54 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 19:24:57 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:33:44 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:34:18 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:34:21 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:34:23 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:45:34 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:45:36 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:45:38 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:45:39 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:45:39 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:45:40 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:46:04 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:49:17 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:49:21 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:49:23 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:49:23 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:49:24 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:49:24 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:49:42 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:52:14 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:52:16 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:52:17 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:52:18 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:52:19 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:52:20 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:52:20 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 21:52:21 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 22:00:33 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 22:32:32 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 22:36:20 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 22:36:23 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 23:09:54 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8
+[08-Jul-2021 23:09:59 UTC] PHP Notice:  Array to string conversion in /home/f29w4mjecf3y/public_html/Requisicion/prueba.php on line 8

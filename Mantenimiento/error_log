@@ -1,0 +1,15 @@
+[02-Apr-2021 03:03:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Mantenimiento/mante_all.php on line 17
+[13-Apr-2021 16:48:48 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[13-Apr-2021 16:48:48 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[13-Apr-2021 16:48:48 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[13-Apr-2021 16:48:48 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[12-May-2021 16:16:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Mantenimiento/mante_all.php on line 17
+[14-May-2021 15:41:45 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[14-May-2021 15:41:45 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[14-May-2021 15:41:45 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[14-May-2021 15:41:45 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[14-May-2021 15:58:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Mantenimiento/mante_all.php on line 17
+[14-May-2021 15:58:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Mantenimiento/mante_all.php on line 17
+[15-May-2021 17:29:24 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Mantenimiento/mante_insert.php on line 36
+[15-May-2021 17:29:38 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Mantenimiento/mante_insert.php on line 36
+[15-May-2021 17:34:16 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Mantenimiento/mante_insert.php on line 36

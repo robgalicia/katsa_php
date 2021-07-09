@@ -1,0 +1,16 @@
+[02-Mar-2021 21:05:16 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[02-Mar-2021 21:05:16 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[02-Mar-2021 21:05:16 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[30-Mar-2021 23:51:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/ResguardoVehiculos/resguardo_all.php on line 23
+[12-Apr-2021 16:43:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/ResguardoVehiculos/resguardo_all.php on line 23
+[13-Apr-2021 16:41:43 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[13-Apr-2021 16:41:43 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[13-Apr-2021 16:41:43 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[13-Apr-2021 16:41:43 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[15-Apr-2021 17:17:31 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/ResguardoVehiculos/resguardo_insert.php on line 36
+[15-Apr-2021 18:18:29 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/ResguardoVehiculos/resguardo_insert.php on line 36
+[05-May-2021 14:33:58 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[05-May-2021 14:33:58 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[05-May-2021 14:33:58 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[05-May-2021 14:33:58 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[05-May-2021 14:34:25 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/ResguardoVehiculos/resguardo_all.php on line 23

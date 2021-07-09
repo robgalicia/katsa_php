@@ -1,0 +1,9 @@
+[14-May-2021 19:01:41 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Reporteador/pruebaImprimir.php on line 62
+[14-May-2021 19:01:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Reporteador/pruebaImprimir.php on line 62
+[14-May-2021 19:04:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Reporteador/pruebaImprimir.php on line 62
+[14-May-2021 19:04:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Reporteador/pruebaImprimir.php on line 62
+[14-May-2021 19:16:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/Reporteador/pruebaImprimir.php on line 62
+[14-May-2021 22:29:41 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Reporteador/pruebaImprimir.php on line 14
+[21-May-2021 19:34:32 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Reporteador/pruebaImprimir.php on line 14
+[11-Jun-2021 00:02:10 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Reporteador/pruebaImprimir.php on line 14
+[11-Jun-2021 00:02:14 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Reporteador/pruebaImprimir.php on line 14

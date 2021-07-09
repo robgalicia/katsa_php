@@ -1,0 +1,4 @@
+[11-Mar-2021 18:41:41 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[11-Mar-2021 18:41:41 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[11-Mar-2021 18:41:41 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[11-Mar-2021 18:41:41 UTC] PHP Notice:  Undefined index: idempleado in /home/f29w4mjecf3y/public_html/RequisicionesFactura/tabs/form.php on line 135

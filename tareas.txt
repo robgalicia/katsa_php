@@ -1,0 +1,7 @@
+Agregar requisicion
+- Tipo Requisición
+- - Cambiar interna por administracion
+- - Agregar cliente
+
+- Centro de costos
+- - deshabilitar (check)

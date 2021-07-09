@@ -1,0 +1,4 @@
+[06-May-2021 14:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'MessageBird\Client' not found in /home/f29w4mjecf3y/public_html/Automat/funciones.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/f29w4mjecf3y/public_html/Automat/funciones.php on line 4

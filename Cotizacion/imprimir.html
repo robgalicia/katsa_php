@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+    <link rel="icon" type="image/jpeg" href="../img/buhosolo.png"/>
+
+    <title>KATSA</title>
+
+    <link rel="stylesheet" type="text/css" href="../js_css/semantic.min.css">
+    <link rel="stylesheet" type="text/css" href="../js_css/nprogress.css">
+    <link rel="stylesheet" type="text/css" href="../js_css/datatable/dataTables.semanticui.min.css">
+    <link rel="stylesheet" type="text/css" href="../Comun/navbar.css">
+
+    <style type="text/css">  
+        .ui.segment{
+            border-color: #4abdac !important;        
+        }
+
+        .row {
+           padding: 5px 5px 5px 5px !important;
+        }
+    </style>
+
+    <script src="../js_css/jquery-3.1.1.min.js"></script>    
+
+    <script src="../js_css/semantic.min.js"></script>
+    <script src="../js_css/nprogress.js"></script>
+    <script src="../js_css/datatable/jquery.dataTables.min.js"></script>
+    <script src="../js_css/datatable/dataTables.semanticui.min.js"></script>
+    
+    <script src="../Comun/funciones.js"></script>
+    <script src="../Comun/validacion.js"></script>
+    <script src="imprimir.js"></script>
+</head>
+
+<body>    
+    <br>
+    <div class="ui grid">
+        
+        <div class="row">
+            
+            <div class="eight wide column">
+                <div class="ui vertical segment">
+                    <img class="ui centered small image" src="../img/buhosolo.png">
+                </div>
+            </div>
+
+            <div class="eight wide column">
+                <br>
+                <h3 class="ui header">
+                    Katsa Protective Solutions S.A. de C.V.
+                    <div class="sub header">No de Autorización Federal: DGSP/071-17/3352.</div>
+                </h3>
+                <br>
+                <h4 class="ui header">
+                    Ciudad Victoria, Tamaulipas a <label id="fecha"></label>
+                    <div class="sub header">Asunto: <strong>Propuesta económica de servicios</strong></div>
+                </h4>
+            </div>
+
+        </div>        
+
+        <div class="row">
+
+            <div class="two wide column"></div>
+
+            <div class="six wide column">
+                <br>
+                <h4 class="ui left header">
+                    <label id="contacto"></label>
+                    <div class="sub header"><strong><label id="cliente"></label></strong></div>
+                    <p><small>c.c. <label id="concopia"></label></small></p>
+                </h4>
+            </div>
+
+            <div class="eight wide column">
+                
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="one wide column"></div>
+
+            <div class="fourteen wide column">
+                <br>
+                <div class="ui justified container">
+                    <p>Aprovecho la ocasión para saludarlo y someto a su consideración la propuesta económica para la prestación de <label id="servicio"></label>, en el <label id="lugar"></label>, ubicado en <label id="ubicacion"></label>.</p>
+                </div>
+            </div>
+
+            <div class="one wide column"></div>
+
+        </div>        
+
+        <div class="row">
+
+            <div class="one wide column"></div>
+
+            <div class="fourteen wide column">
+                <br>
+                <div class="ui justified container">
+                    <p>
+                        A continuación, se detallan los conceptos y precios estimados por servicio:
+                        
+                        <table class="ui compact table">
+                            <thead>
+                                <tr>
+                                    <th>CONCEPTO</th>
+                                    <th>PRECIO UNIT</th>
+                                    <th>CANT</th>
+                                    <th>PRECIO MENSUAL</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tbodyPrin">
+                            </tbody>
+                            <tfoot class="full-width">
+                                <th colspan="4">*Costo mensual en <label id="moneda"></label> sin IVA incluido</th>                                
+                            </tfoot>
+                        </table>
+        
+                    </p>
+                </div>
+            </div>
+
+            <div class="one wide column"></div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="one wide column"></div>
+
+            <div class="fourteen wide column">
+                <br>
+                <div class="ui justified container">
+                    <p>
+                        Sin mas por el momento, quedo a sus ordenes para cualquier duda o aclaracion, esperando ser favorecidos con su decision.
+                    </p>
+                </div>
+            </div>
+
+            <div class="one wide column"></div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="one wide column"></div>
+
+            <div class="fourteen wide column">
+                <br>
+                <div class="ui center aligned container">
+                    <p>
+                        <strong>Atentamente</strong> <br>
+                        <strong><label id="firma"></label></strong> <br>
+                        <strong><label id="puestofirma"></label></strong> <br>
+                    </p>
+                </div>
+            </div>
+
+            <div class="one wide column"></div>
+
+        </div>
+                
+    </div>
+
+</body>

@@ -1,0 +1,17 @@
+[11-May-2021 18:09:55 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[11-May-2021 18:09:55 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[11-May-2021 18:09:55 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[11-May-2021 18:09:55 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[15-May-2021 16:19:11 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[15-May-2021 16:19:11 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[15-May-2021 16:19:11 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[15-May-2021 16:19:11 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[15-May-2021 16:19:42 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/AltaEmpleados/altaempleados_all_sua.php on line 25
+[15-May-2021 16:19:42 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/AltaEmpleados/altaempleados_all_sua.php on line 25
+[15-May-2021 16:19:42 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/AltaEmpleados/altaempleados_all_sua.php on line 25
+[15-May-2021 16:19:42 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/AltaEmpleados/altaempleados_all_sua.php on line 25
+[15-May-2021 16:19:42 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/AltaEmpleados/altaempleados_all_sua.php on line 25
+[16-Jun-2021 21:44:49 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[16-Jun-2021 21:44:49 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[16-Jun-2021 21:44:49 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[16-Jun-2021 21:44:49 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86

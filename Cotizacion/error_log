@@ -1,0 +1,8 @@
+[05-Jul-2021 17:25:17 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[05-Jul-2021 17:25:17 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 63
+[05-Jul-2021 17:25:17 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 83
+[05-Jul-2021 17:25:17 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_fourteen.php on line 86
+[05-Jul-2021 19:32:02 UTC] PHP Notice:  Undefined index: desctipomoneda in /home/f29w4mjecf3y/public_html/Cotizacion/coti_all_detail_print.php on line 36
+[05-Jul-2021 19:32:02 UTC] PHP Notice:  Undefined index: fecha_formal in /home/f29w4mjecf3y/public_html/Cotizacion/coti_all_detail_print.php on line 46
+[05-Jul-2021 19:35:52 UTC] PHP Notice:  Undefined index: desctipomoneda in /home/f29w4mjecf3y/public_html/Cotizacion/coti_all_detail_print.php on line 36
+[05-Jul-2021 19:35:52 UTC] PHP Notice:  Undefined index: fecha_formal in /home/f29w4mjecf3y/public_html/Cotizacion/coti_all_detail_print.php on line 46

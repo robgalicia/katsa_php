@@ -1,0 +1,19 @@
+[25-Feb-2021 20:52:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all.php on line 16
+[31-Mar-2021 18:32:29 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[31-Mar-2021 18:32:29 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_six.php on line 63
+[31-Mar-2021 18:32:29 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_six.php on line 83
+[31-Mar-2021 18:32:29 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_six.php on line 85
+[31-Mar-2021 18:32:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all.php on line 16
+[31-Mar-2021 18:32:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all.php on line 16
+[31-Mar-2021 18:34:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all.php on line 16
+[31-Mar-2021 18:34:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all.php on line 16
+[31-Mar-2021 18:35:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all.php on line 16
+[31-Mar-2021 18:35:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all.php on line 16
+[31-Mar-2021 18:36:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all.php on line 16
+[31-Mar-2021 18:37:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all.php on line 16
+[31-Mar-2021 18:42:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all_edit.php on line 18
+[31-Mar-2021 18:42:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/f29w4mjecf3y/public_html/CatPuestos/puestos_all_edit.php on line 18
+[31-Mar-2021 20:13:13 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[31-Mar-2021 20:13:13 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_six.php on line 63
+[31-Mar-2021 20:13:13 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_six.php on line 83
+[31-Mar-2021 20:13:13 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_six.php on line 85

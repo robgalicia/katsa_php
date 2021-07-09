@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+[11-Feb-2021 11:38:37 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home3/estuds6q/katsa/Katsa/conexion/conexion.php on line 38
+[11-Feb-2021 11:43:41 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home3/estuds6q/katsa/Katsa/conexion/conexion.php on line 38
+[11-Feb-2021 11:50:29 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home3/estuds6q/katsa/Katsa/conexion/conexion.php on line 38
+[11-Feb-2021 12:12:34 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home3/estuds6q/katsa/Katsa/conexion/conexion.php on line 38
+[12-Feb-2021 16:15:40 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home3/estuds6q/katsa/Katsa/conexion/conexion.php on line 38
+[12-Feb-2021 16:20:35 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home3/estuds6q/katsa/Katsa/conexion/conexion.php on line 38
+=======
+[03-Mar-2021 23:31:39 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[03-Mar-2021 23:31:42 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[03-Mar-2021 23:35:00 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[03-Mar-2021 23:39:10 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[03-Mar-2021 23:40:26 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[03-Mar-2021 23:42:07 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[03-Mar-2021 23:42:17 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+>>>>>>> e97b33bf6cc0627b0b64416c91b656b62702a833
+[08-Mar-2021 17:24:23 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:26:09 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:26:43 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:26:47 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:26:49 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:33:07 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:41:11 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:41:31 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:43:42 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:43:53 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[08-Mar-2021 17:45:39 UTC] PHP Notice:  Undefined index: idregion in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_revisa.php on line 29
+[08-Mar-2021 17:45:39 UTC] PHP Notice:  Undefined index: iddepartamento in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_revisa.php on line 30
+[11-Mar-2021 00:11:01 UTC] PHP Notice:  Undefined index: idregion in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_revisa.php on line 29
+[11-Mar-2021 00:11:01 UTC] PHP Notice:  Undefined index: iddepartamento in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_revisa.php on line 30
+[24-Mar-2021 00:11:09 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[24-Mar-2021 00:11:11 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[19-Apr-2021 17:25:22 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[19-Apr-2021 17:25:24 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[19-Apr-2021 17:26:01 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[19-Apr-2021 17:26:05 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[19-Apr-2021 17:26:09 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[21-Apr-2021 02:48:25 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[21-Apr-2021 02:48:29 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[21-Apr-2021 02:48:31 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22
+[21-Apr-2021 02:49:40 UTC] PHP Notice:  Undefined index: quien in /home/f29w4mjecf3y/public_html/Revisar_Requisicion/requi_all.php on line 22

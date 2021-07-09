@@ -1,0 +1,7 @@
+[07-Jan-2021 20:55:32 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_ten.php on line 60
+[07-Jan-2021 20:55:32 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_ten.php on line 80
+[07-Jan-2021 20:55:32 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_ten.php on line 82
+[02-Apr-2021 21:19:53 UTC] PHP Notice:  Undefined index: nombre in /home/f29w4mjecf3y/public_html/Comun/modal_cambiar_pass.php on line 54
+[02-Apr-2021 21:19:53 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_ten.php on line 63
+[02-Apr-2021 21:19:53 UTC] PHP Notice:  Undefined index: nombreCompleto in /home/f29w4mjecf3y/public_html/Comun/header_ten.php on line 83
+[02-Apr-2021 21:19:53 UTC] PHP Notice:  Undefined index: nombre_database in /home/f29w4mjecf3y/public_html/Comun/header_ten.php on line 85
